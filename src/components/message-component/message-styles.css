@@ -1,0 +1,17 @@
+.sentMessageBox{
+    margin: 2px 5px;
+    padding: 8px;
+    background: #00AFB9;
+    border-radius: 5px;
+    max-width: 80%;
+    color: white;
+}
+
+.receivedMessageBox{
+    margin: 2px 5px;
+    padding: 8px;
+    background: #0081A7;
+    border-radius: 5px;
+    max-width: 80%;
+    color: white;
+}

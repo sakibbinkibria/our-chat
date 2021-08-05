@@ -1,0 +1,12 @@
+.cardClass{
+  background-color: rgba(255, 255, 255, .20) !important;
+  backdrop-filter: blur(10px) !important;
+  padding: 4em !important;
+  margin: 2em;
+}
+
+@media only screen and (max-width: 600px) {
+  .cardClass{
+    padding: 1em !important;
+  }
+}
